@@ -4,7 +4,7 @@
 #
 Name     : R-bootstrap
 Version  : 2017.2
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/bootstrap_2017.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bootstrap_2017.2.tar.gz
 Summary  : Functions for the Book "An Introduction to the Bootstrap"
