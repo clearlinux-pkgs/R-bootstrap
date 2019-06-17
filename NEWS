@@ -1,3 +1,8 @@
+2019.6
+
+- Move development to GitLab, and update URLs accordingly.
+- Register native routines (thanks to Don Tawanpitak).
+
 2017.2
 
 - Fix the GPA variable in the "law" dataset. The values are now of the form
