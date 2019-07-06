@@ -4,7 +4,7 @@
 #
 Name     : R-bootstrap
 Version  : 2019.6
-Release  : 13
+Release  : 14
 URL      : https://cran.r-project.org/src/contrib/bootstrap_2019.6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/bootstrap_2019.6.tar.gz
 Summary  : Functions for the Book "An Introduction to the Bootstrap"
